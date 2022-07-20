@@ -9,5 +9,31 @@ Github -
 
 Comandos usados no Windows:
 cd - navega entre as pastas
+  cd / - leva para a base do diretório C
+  cd nomepasta
+cd .. - volta uma pasta
+
+cls - limpar tela
+//(cltr+l - gitbash)
+tab - auto completar
+
 dir - lista os diretórios
-mkdir - cria pasta
+mkdir nomepasta - criar pasta
+
+echo hello - printa o nome que eu quero
+echo hello > hello.txt
+
+del - deleta dentro da pasta
+
+rmdir nome pasta /S /Q - remove a pasta total
+
+
+
+Criando a Chave SSH: 
+comunicação do repositório local como servidor remoto
+ssh -keygen -t ed25519 -C raullxyz@gmail.com
+
+passar chave pública s
+
+
+
