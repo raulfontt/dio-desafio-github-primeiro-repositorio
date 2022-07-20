@@ -1,2 +1,5 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de Projeto sobre Github 
+# Repositório do Desafio de Projeto da Dio
+Desafio de Projeto sobre Git/Github 
+
+## Links úteis
+[Sintaxe
