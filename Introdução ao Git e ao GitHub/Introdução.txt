@@ -1,0 +1,13 @@
+Git - Sistema de Versionamento de Código Distribuído
+  Criador - Linus Torvalds
+Github - 
+  controle de versão
+  armazenamento em nuvem
+  trabalho em equipe
+  melhorar seu código
+  reconhecimento
+
+Comandos usados no Windows:
+cd - navega entre as pastas
+dir - lista os diretórios
+mkdir - cria pasta
